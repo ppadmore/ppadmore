@@ -5,6 +5,5 @@
 - 📫 I can be contacted through ppadmore2021@gmail.com or whatapps # +231888662042
 
 <!---
-ppadmore/ppadmore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I want to learn programming and need a mentor to help me throug. I just bought a course from Udemy to start my Journery 
 --->
